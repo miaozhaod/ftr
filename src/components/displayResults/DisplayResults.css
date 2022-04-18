@@ -1,0 +1,19 @@
+.display_card {
+  max-width: 100%;
+  margin-top: 1.6rem;
+  min-height: 2.8rem;
+  height: fit-content;
+  background-color: #57534e;
+  padding: 2rem;
+  color: #fafafa;
+  border-radius: 5px;
+}
+
+.results_title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.results_content {
+  line-height: 1.6rem;
+}

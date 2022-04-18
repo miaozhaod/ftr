@@ -1,0 +1,32 @@
+.title {
+  font-size: 21px;
+  font-weight: 500;
+  color: #ef3e39;
+  margin-bottom: 1.6rem;
+}
+.farewell_result_wrapper {
+  margin-top: 0.8rem;
+}
+
+.farewell_result_wrapper > p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.farewell_result_wrapper span {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ef3e39;
+}
+
+.farewell_result_wrapper > p:nth-child(2) {
+  margin: 0.5rem 0;
+}
+
+.start_again_button {
+  margin-top: 1.6rem;
+  background-color: #0284c7;
+}
+.start_again_button:hover {
+  background-color: #0369a1;
+}
